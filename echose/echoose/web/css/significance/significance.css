@@ -1,0 +1,68 @@
+#nav, .search-area .search-input {
+	background-color: #66c245;
+}
+
+.nav-item a, .search-warp .searchTags a, .header-signin, .header-signin a {
+	color: white;
+}
+
+.search-area {
+	border-bottom-color: white;
+}
+
+#logo a {
+	text-indent: 0;
+	color: white;
+	text-align: center;
+	line-height: 72px;
+}
+
+.nav-item li a {
+	padding: 0 10px;
+}
+
+.carousel {
+	height: 200px;
+}
+
+.myClassList table td dl dd {
+	margin-top: 88px
+}
+
+#face_panel {
+	z-index: 99999999
+}
+
+.slider a.active {
+	background: #66c245 !important;
+}
+
+.lyg_content p{
+	text-indent: 2em;
+}
+
+#footer {
+	background-color: #66c245;
+	color: #333;
+}
+#footer p {
+	text-align: center;
+}
+.footer-nav a {
+	font-size: 15px;
+}
+.footer-nav table {
+	width: 80%;
+	margin: auto;
+}
+.footer-link {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.footer-link a {
+	font-size: 12px;
+}
+.footer-link table {
+	width: 50%;
+	margin: auto;
+}

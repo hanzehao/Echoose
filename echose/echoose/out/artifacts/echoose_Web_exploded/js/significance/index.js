@@ -1,0 +1,1 @@
+define(function(require){require("/static/page/discovery/index.js"),require("../../../../../../../../Desktop/阿猫_ACat的动态_files/u_common.js")});
